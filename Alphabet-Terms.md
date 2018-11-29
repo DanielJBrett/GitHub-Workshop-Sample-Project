@@ -1,4 +1,4 @@
-Lets learn about fun animals based on the letters of the alphabet.
+Let's learn about fun animals based on the letters of the alphabet.
 
 A-  
 B-  
